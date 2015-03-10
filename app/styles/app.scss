@@ -1,0 +1,30 @@
+@import "bower_components/fontawesome/scss/font-awesome.scss";
+
+body {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+paper-input {
+  width: 100%;
+  margin-top: 0.0em;
+  margin-bottom: 0.0em;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 0.0em;
+  padding-bottom: 0.0em;
+}
+
+paper-input::shadow * {
+  margin-top: 0.0em;
+  margin-bottom: 0.0em;
+  padding-top: 0.0em;
+  padding-bottom: 0.0em;
+}
+
+input {
+  margin-top: 0.0em;
+  margin-bottom: 0.0em;
+  padding-top: 0.0em;
+  padding-bottom: 0.0em;
+}
